@@ -1,3 +1,1 @@
-This is a third attempt at organizing and deploying the noteful graded assignment following further collaboration with peers. 
-
-
+Cleaned up a bit of the code and fixed some of the issues per last attempt
